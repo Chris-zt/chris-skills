@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill 进化"
+  short_description: "复盘任务问题并提出 skill 优化建议"
+  default_prompt: "Use $skill-evolution-review to review the previous task, identify skill-related issues, and propose skill improvements for my approval."
+
+policy:
+  allow_implicit_invocation: false
